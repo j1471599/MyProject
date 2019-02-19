@@ -2,3 +2,4 @@ This is a book.
 This is a cat.
 I like cookies.
 I like cookie.
+Sharing information feels funny.
